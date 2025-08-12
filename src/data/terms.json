@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "a-001-ICT間接費補正",
+    "term": "ICT間接費補正",
+    "reading": "あいしーてぃーかんせつひほせい",
+    "definition": "ICT施工工事において共通仮設費、現場管理費が補正されること。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-002-ICT建設機械に要する費",
+    "term": "ICT建設機械に要する費用",
+    "reading": "あいしーてぃーけんせつきかいにようするひよう",
+    "definition": "ICT建設機械経費加算額や共通仮設費の技術管理費に計上される保守点検、システム初期費、3次元起工測量・3次元設計データの作成費用など。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-003-赤本",
+    "term": "赤本",
+    "reading": "あかぼん",
+    "definition": "国土交通省土木工事標準積算基準書の通称。背表紙が赤いことから「赤本」と呼ばれる。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-004-アスカーブ",
+    "term": "アスカーブ",
+    "reading": "あすかーぶ",
+    "definition": "アスファルト合材を使用して施工する縁石のこと。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-005-亜熱帯労務補正",
+    "term": "亜熱帯労務補正",
+    "reading": "あねったいろうむほせい",
+    "definition": "沖縄総合事務局発注工事において、亜熱帯気候下での作業を考慮し、標準歩掛を25％増とする補正。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-006-アンカー",
+    "term": "アンカー",
+    "reading": "あんかー",
+    "definition": "ねじや釘のようなものから大型のものまで、多様な意味で用いられる固定具の総称。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-007-安全費",
+    "term": "安全費",
+    "reading": "あんぜんひ",
+    "definition": "安全施設等、管理費、工事施工上必要な安全対策等に要する費用。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-008-維持修理費",
+    "term": "維持修理費",
+    "reading": "いじしゅうりひ",
+    "definition": "建設機械の整備・修理費用で、消耗部品費以外の運転経費。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-009-一般管理費",
+    "term": "一般管理費",
+    "reading": "いっぱんかんりひ",
+    "definition": "広告費や事務所借地借家料等、企業経営維持に必要な経費。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-010-一般競争入札",
+    "term": "一般競争入札",
+    "reading": "いっぱんきょうそうにゅうさつ",
+    "definition": "公告による不特定多数入札方式で、最も有利な条件提示者と契約する方式。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-011-一般建設業許可",
+    "term": "一般建設業許可",
+    "reading": "いっぱんけんせつぎょうきょか",
+    "definition": "請負金額500万円以上の一式以外の建設工事受注に必要な許可。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-012-運搬費",
+    "term": "運搬費",
+    "reading": "うんぱんひ",
+    "definition": "建設機械器具の運搬等に要する費用。直接工事費。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-013-営繕工事",
+    "term": "営繕工事",
+    "reading": "えいぜんこうじ",
+    "definition": "建築工事、機械設備工事、電気設備工事等の総称。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-014-営繕費",
+    "term": "営繕費",
+    "reading": "えいぜんひ",
+    "definition": "①現場事務所等の営繕 ②労働者宿舎の営繕 ③倉庫・材料保管場の営繕 ④労務者輸送費 ⑤土地・建物借上げ費 ⑥監督員詰所等の営繕",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-015-役務費",
+    "term": "役務費",
+    "reading": "えきむひ",
+    "definition": "①土地借上げ費 ②電力・用水等基本料 ③電力設備用工事負担金",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-016-請負工事機械経費積算要領",
+    "term": "請負工事機械経費積算要領",
+    "reading": "うけおいこうじきかいけいひせきさんようりょう",
+    "definition": "建設機械使用経費の積算事項を定め、予定価格算定を適正化する要領。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-017-内訳書",
+    "term": "内訳書",
+    "reading": "うちわけしょ",
+    "definition": "工事全体を示す表。明細書や代価表など詳細内訳を含む。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-018-運転時間(年間標準)",
+    "term": "運転時間（年間標準）",
+    "reading": "うんてんじかん",
+    "definition": "機械作業、移動、空転時間などを含む年間標準の稼働時間。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "a-019-運転日数(年間標準)",
+    "term": "運転日数（年間標準）",
+    "reading": "うんてんにっすう",
+    "definition": "機械が稼働した日数の通算。運転時間の多少は問わない。",
+    "category": "あ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/a-gyo/"
+  },
+  {
+    "id": "ka-001-加算方式",
+    "term": "加算方式",
+    "reading": "かさんほうしき",
+    "definition": "入札価格以外の要素を数値化した技術評価点と、入札価格を数値化した価格評価点を合計する評価方式（技術評価点＋価格評価点）。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-002-合算工事/合冊工事/合併",
+    "term": "合算工事／合冊工事／合併工事",
+    "reading": "がっさんこうじ／がっさつこうじ／がっぺいこうじ",
+    "definition": "エリアにより呼び名が異なるが、複数の設計書を一つとみなして経費対象金額を算出する積算方法。自治体システムにより処分費設定方法が異なる場合がある。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-003-管材費",
+    "term": "管材費",
+    "reading": "かんざいひ",
+    "definition": "導水・浄水・送水・配水の管類および接合材料、弁類、流量計等の管路付属設備の費用。きょう類・さや管類・外面被覆材等は含まれない。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-004-官積/官積算",
+    "term": "官積／官積算",
+    "reading": "かんせき／かんせきさん",
+    "definition": "官庁価格設定の予定価格を用いた積算。公共工事や委託業務の予算算出を指す。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-005-間接工事費/共通費",
+    "term": "間接工事費／共通費",
+    "reading": "かんせつこうじひ／きょうつうひ",
+    "definition": "現場管理費・共通仮設費・一般管理費等、直接工事費以外の費用合計。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-006-間接工事費積上",
+    "term": "間接工事費積上",
+    "reading": "かんせつこうじひつみあげ",
+    "definition": "共通仮設費率に含まず、運搬費・準備費・事業損失防止施設費・安全費・役務費・技術管理費・営繕費として個別積上げする費用。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-007-黄色本/黄本",
+    "term": "黄色本／黄本",
+    "reading": "きいろぼん／きほん／きなぼん",
+    "definition": "国土交通省土木工事積算基準書。背表紙が黄色いことから「黄色本」と呼ぶ。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-008-機械賃料",
+    "term": "機械賃料",
+    "reading": "きかいちんりょう",
+    "definition": "建設機械レンタルの1日・1月当たり賃料。長期割引価格を用い、週休2日補正を適用することが多い。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-009-機器単体費",
+    "term": "機器単体費",
+    "reading": "ききたんたいひ",
+    "definition": "機械設備積算や電気通信積算で用いる、組み込み可能な単体製品の費用。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-010-技術管理費",
+    "term": "技術管理費",
+    "reading": "ぎじゅつかんりひ",
+    "definition": "①品質管理試験費 ②出来形管理測量費 ③工程管理資料作成費",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-011-基礎価格",
+    "term": "基礎価格",
+    "reading": "きそかかく",
+    "definition": "国内市場の実勢取引価格をもとに設定した、標準付属品装備の機械損料算定用価格（消費税除く）。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-012-共通仮設費",
+    "term": "共通仮設費",
+    "reading": "きょうつうかせつひ",
+    "definition": "工事完了時に撤去される、現場事務所や仮設トイレなどの設置に要する費用総額。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-013-橋梁架設工事の積算(書籍",
+    "term": "橋梁架設工事の積算（書籍）",
+    "reading": "きょうりょうかせつこうじのせきさん",
+    "definition": "JCMA発行の橋梁架設・維持に特化した積算基準書。年1回発行。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-014-供用日数",
+    "term": "供用日数",
+    "reading": "きょうようにっすう",
+    "definition": "建設機械が現場に拘束される日数。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-015-金入り設計書",
+    "term": "金入り設計書",
+    "reading": "きんいりせっけいしょ",
+    "definition": "単価欄に金額記載のある設計図書。金抜き設計書と対比される。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-016-緊急工事補正",
+    "term": "緊急工事補正",
+    "reading": "きんきゅうこうじほせい",
+    "definition": "昼夜連続作業を前提とする緊急工事に、現場管理費2.0％を加算する補正。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-017-金抜き設計書",
+    "term": "金抜き設計書",
+    "reading": "きんぬきせっけいしょ",
+    "definition": "金額欄が空白の設計図書。これを基に積算を行う。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-018-下水道維持工事",
+    "term": "下水道維持工事",
+    "reading": "げすいどういじこうじ",
+    "definition": "老朽化対策・維持更新を目的とした下水道施設の工事。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-019-下水道用設計標準歩掛表(",
+    "term": "下水道用設計標準歩掛表（書籍）／白本",
+    "reading": "げすいどうようせっけいひょうじゅんぶがかりひょう",
+    "definition": "下水道協会発行の設計標準歩掛表。第1巻管路、第2巻ポンプ場、第3巻設計委託。背表紙が白色の「白本」。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-020-原価",
+    "term": "原価",
+    "reading": "げんか",
+    "definition": "製造・サービス提供に必要な原材料費、償却費、労務費、光熱費等の総額。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-021-建設機械損料",
+    "term": "建設機械損料",
+    "reading": "けんせつきかいそんりょう",
+    "definition": "機械の償却費・維持修理費・管理費等を1時間または1日当たりに換算した経費。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-022-建設機械賃料",
+    "term": "建設機械賃料",
+    "reading": "けんせつきかいちんりょう",
+    "definition": "機械レンタルの1日・1月当たり賃料。長期割引・週休2日補正あり。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-023-建設機械等損料表(書籍)",
+    "term": "建設機械等損料表（書籍）／緑本",
+    "reading": "けんせつきかいとうそんりょうひょう",
+    "definition": "JCMA発行。国交省準拠の機械損料データと計算例を掲載。背表紙が緑色の「緑本」。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-024-建設キャリアアップシステ",
+    "term": "建設キャリアアップシステム（CCUS）",
+    "reading": "けんせつきゃりああっぷしすてむ（しーしーゆーえす）",
+    "definition": "技能者の就業実績・資格を登録し、公正評価・品質向上を図る国直轄工事義務化システム。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-025-建設業許可",
+    "term": "建設業許可",
+    "reading": "けんせつぎょうきょか",
+    "definition": "公共・民間問わず建設業営業に必要な許可。区分は「大臣許可」「知事許可」、5年ごとに更新。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-026-建設業法",
+    "term": "建設業法",
+    "reading": "けんせつぎょうほう",
+    "definition": "1949年制定の法律。業者資質向上・健全発展を目的とし、建設業務のルールを規定。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-027-建設物価(書籍)",
+    "term": "建設物価（書籍）",
+    "reading": "けんせつぶっか",
+    "definition": "建設資機材価格・工事費・賃貸料を毎月調査し収録した総合物価版（月刊）。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-028-建築コスト情報(書籍)",
+    "term": "建築コスト情報（書籍）",
+    "reading": "けんちくこすとじょうほう",
+    "definition": "建設物価調査会発行の季刊誌。市場単価・施工単価・建築工事市場単価方式対応。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-029-現場管理費",
+    "term": "現場管理費",
+    "reading": "げんばかんりひ",
+    "definition": "工事現場を管理するために要する費用（現場経費の一項目）。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-030-工期設定支援システム",
+    "term": "工期設定支援システム",
+    "reading": "こうきせっていしえんしすてむ",
+    "definition": "国交省公開の「週休2日応援ツール」。週休1日向け工期を自動で週休2日設定に計算。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-031-工種",
+    "term": "工種",
+    "reading": "こうしゅ",
+    "definition": "「工事種別」の略称。例：コンクリート補修工事、PC橋工事など。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-032-工事費概算書",
+    "term": "工事費概算書",
+    "reading": "こうじひがいさんしょ",
+    "definition": "概算金額を明示した設計書。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-033-工事原価",
+    "term": "工事原価",
+    "reading": "こうじげんか",
+    "definition": "工事にかかる仕入費用・現場費用の総額。＝直接工事費＋現場管理費＋共通仮設費。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-034-工事工種体系ツリー",
+    "term": "工事工種体系ツリー",
+    "reading": "こうじこうしゅたいけいつりー",
+    "definition": "工種分類をレベル0～6の7階層でツリー状に整理し、単位を規定する表示方法。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-035-工事成績評定",
+    "term": "工事成績評定",
+    "reading": "こうじせいせきひょうてい",
+    "definition": "公共工事完成後に施工体制・出来形・技術提案等を数値評価する制度。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-036-工事台帳",
+    "term": "工事台帳",
+    "reading": "こうじだいちょう",
+    "definition": "未完成工事支出金・完成工事原価の材料費・労務費・外注費・経費を記録する台帳。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-037-工事費内訳書",
+    "term": "工事費内訳書",
+    "reading": "こうじひうちわけしょ",
+    "definition": "数量・単価・諸経費を含む工事金額定価を示す設計書。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-038-工数",
+    "term": "工数",
+    "reading": "こうすう",
+    "definition": "作業量指標。「（1人×作業時間）÷8時間＝1人工」で算出。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-039-国土交通省機械設備工事標",
+    "term": "国土交通省 機械設備工事標準積算基準（書籍）／青本",
+    "reading": "こくどこうつうしょう きかいせつびこうじひょうじゅんせきさんきじゅん",
+    "definition": "機械設備工事積算に必要な基準事項を定めた書籍。年1回発行。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-040-国土交通省大臣許可/大臣",
+    "term": "国土交通省大臣許可／大臣許可",
+    "reading": "こくどこうつうしょうだいじんきょか／だいじんきょか",
+    "definition": "複数都道府県に営業所を設置する場合に必要な許可。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-041-国土交通省土木工事積算基",
+    "term": "国土交通省 土木工事積算基準（書籍）／黄色本",
+    "reading": "こくどこうつうしょう どぼくこうじせきさんきじゅん",
+    "definition": "土木工事標準歩掛を網羅した積算基準書。背表紙が黄色の「黄色本」。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "ka-042-国土交通省土木工事標準積",
+    "term": "国土交通省 土木工事標準積算基準書（書籍）／赤本",
+    "reading": "こくどこうつうしょう どぼくこうじひょうじゅんせきさんきじゅんしょ",
+    "definition": "標準積算基準書の補足説明書。4編構成で、背表紙が赤色の「赤本」。",
+    "category": "か行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ka-gyo/"
+  },
+  {
+    "id": "sa-001-材料費",
+    "term": "材料費",
+    "reading": "かざいりょうひ",
+    "definition": "木材や鉄材など、製造に要する原材料、製品を購入する際に生じる費用のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-002-さく井工事",
+    "term": "さく井工事",
+    "reading": "さくせいこうじ",
+    "definition": "建設業の1種で「さくせい」と言います。さく井機械を使用して揚水設備設置等を行う工事のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-003-参考見積書",
+    "term": "参考見積書",
+    "reading": "かんさんこうみつもりしょ",
+    "definition": "一般競争入札や随意契約の契約方式を判断するときや、予算要求するときなどに参考見積書が必要になることがあります。参考見積書では通常の取引価格、おおよその金額を提出してもらい検討時に利用します。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-004-三社見積",
+    "term": "三社見積",
+    "reading": "さんしゃみつもり",
+    "definition": "見積書を3社分集めて役所へ提出すること。その主な目的は、①予定価格の単価設定のため、②設計変更のためです。適切な予定価格を組むために反映させる場合や設計外の項目を追加するときに、積算単価のない項目の場合に3社分の見積書を取得します。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-005-事業損失防止施設費",
+    "term": "事業損失防止施設費",
+    "reading": "じぎょうそんしつぼうししせつひ",
+    "definition": "事業損失防止施設費には以下の2つが含まれます。１）工事施工に伴って発生する騒音、振動、地盤沈下、地下水の断絶等に起因する事業損失を未然に防止するための仮施設の設置費、撤去費、及び当該仮施設の維持管理等に要する費用２）事業損失を未然に防止するために必要な調査等に要する費用",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-006-市場単価",
+    "term": "市場単価",
+    "reading": "しじょうたんか",
+    "definition": "材料費、労務費、機械経費で構成される施工単位当たりの市場での取引価格（一部工種では材料の値動きが極めて激しいためこれを除外）のこと。元請業者による直営施工に代わり、下請の専門業者の施工が一般的な工種について、元請業者から下請業者に外注される工事価格、つまり元・下間の取引価格です。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-007-市場単価方式",
+    "term": "市場単価方式",
+    "reading": "しじょうたんかほうしき",
+    "definition": "基本的に公共工事を発注する際の積算は、歩掛による積上げ方式で実施されています。これに対して市場単価方式とは、工事費を構成する一部もしくは全部の工種について歩掛を使用せず、材料費、労務費、機械経費を含む施工単位当たりで、市場の取引価格を反映する方法のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-008-失格判定基準",
+    "term": "失格判定基準",
+    "reading": "しっかくはんていきじゅん",
+    "definition": "調査基準価格を下回った際に、入札価格が失格判断基準に満たない場合、契約の内容が適切に行われないと判断し、入札を失格とする基準のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-009-指名競争入札",
+    "term": "指名競争入札",
+    "reading": "していきょうそうにゅうさつ",
+    "definition": "国や地方公共団体が適切な企業を指名して入札に参加させ、最も有利な条件を提示した者と契約する入札方式のこと。一般競争入札とは異なり、企業が自ら参加を希望することはできません。入札者が最初から絞られることもあり、落札できる可能性は一般競争入札よりも高くなります。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-010-指定建設業",
+    "term": "指定建設業",
+    "reading": "していけんせつぎょう",
+    "definition": "建設業許可が必要な業種は29業種あり、そのうち7業種（①土木工事業②建築工事業③電気工事業④管工事業⑤鋼構造物工事業⑥ほ装工事業⑦造園工事業）は指定建設業の許可が必要です。この7業種については、専任技術者が実務経験では認められず、一級の国家資格者、または国交省大臣特別認定者であることが必須となります。他の業種とはこの点が異なるため、指定建設業と呼ばれています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-011-指定施工",
+    "term": "指定施工",
+    "reading": "していせこう",
+    "definition": "工事目的物を完成させるために、発注者が施工方法の全部または一部を指定する（材料、数量、工種、施工法、配置など）こと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-012-指名停止措置",
+    "term": "指名停止措置",
+    "reading": "しめいていしそち",
+    "definition": "建設業の事業者などを一定期間入札に参加できなくすること。この措置は発注者（官公庁や自治体など）ごとに行われ、指定された事業者は数週間から数ヶ月の間、その発注者の入札に参加することができません。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-013-JACIC",
+    "term": "JACIC",
+    "reading": "じゃしっく",
+    "definition": "一般社団法人日本建設情報総合センターのことで、建設事業の円滑な執行に資する情報システムの調査研究、開発・改良、運用・保守並びに建設情報の提供・普及を行っている機関です。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-014-(工事における)週休2日",
+    "term": "（工事における）週休2日",
+    "reading": "しゅうきゅうふつか",
+    "definition": "平成29年3月に策定された「働き方改革実行計画」において示された、建設業における週休2日の推進等の休日確保の必要性を踏まえ、週休2日工事に取り組む工事施工者、関係者を支援するための国土交通省による取り組みのこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-015-週休2日工事",
+    "term": "週休2日工事",
+    "reading": "しゅうきゅうふつかこうじ",
+    "definition": "「働き方改革実行計画」（働き方改革実現会議（議長：内閣総理大臣）決定）において示された、建設業における週休２日の推進等の休日確保の必要性等を踏まえ、各種の取り組みが行われています。積算上では労務費や機械賃料、経費率が補正されます。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-016-受注者",
+    "term": "受注者",
+    "reading": "じゅちゅうしゃ",
+    "definition": "発注者から直接工事を請け負った請負人のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-017-純工事費",
+    "term": "純工事費",
+    "reading": "じゅんこうじひ",
+    "definition": "請負工事の工事費構成上、直接工事費と共通仮設費の和を純工事費と言います。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-018-準備費",
+    "term": "準備費",
+    "reading": "じゅんびひ",
+    "definition": "準備費には以下の4つが含まれます。１）準備及び後片付けに要する費用２）調査・測量、丁張等に要する費用３）イブルドーザ、レーキドーザ、バックホウ等による雑木や小さな樹木、竹等などを除去する費用（樹木をチェーンソー等により切り倒す伐採作業は含まない）４）除根、除草、整地、段切り、すりつけ等に要する費用。なお、伐開、除根及び除草は、現場内の集積・積込み作業を含む（伐採作業に伴う現場内の集積・積込作業は含まない）。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-019-償却費および償却費率",
+    "term": "償却費および償却費率",
+    "reading": "しょうきゃくひおよびしょうきゃくひりつ",
+    "definition": "建設機械の使用または経年による価値の減価額であり、償却費率は使用期間中の償却費総額の基礎価格に対する割合のこと。償却費率の求め方：償却費率＝ 1 －残存率 /100",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-020-諸経費",
+    "term": "諸経費",
+    "reading": "しょけいひ",
+    "definition": "諸経費は大きく「現場管理費」と「一般管理費」の2つに分けられます。「現場管理費」は元請業者の現場監督員の人件費・交通費、工事関係保険料（損害賠償保険･火災保険など）、現場事務所でかかる諸雑費のことであり、「一般管理費」は建設業を運営するに必要な営業担当社員・経理担当社員等の現場監督員以外の人件費や会社の家賃または固定資産税･光熱費・事務用品費・減価償却費のことです。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-021-除算方式",
+    "term": "除算方式",
+    "reading": "じょさんほうしき",
+    "definition": "入札価格以外の要素を数値化した技術評価点を、入札価格で割る評価方式のこと（技術評価点÷入札価格）。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-022-処分費",
+    "term": "処分費",
+    "reading": "しょぶんひ",
+    "definition": "再資源化施設の受入費でアスファルト殻、コンクリート殻のことを指します。積算をするうえで処分費の間接費設定をする必要があります。また処分費の設定には、上下水道料金、有料道路利用料も設定する必要があります。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-023-所要数量",
+    "term": "所要数量",
+    "reading": "しょようすうりょう",
+    "definition": "材料費を求めるために用いられる数値で、工事で実際に必要となる数量のこと。所要数量の求め方：所要数量＝設計数量×割増係数",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-024-白本",
+    "term": "白本",
+    "reading": "しろぼん",
+    "definition": "公益財団法人日本下水道協会発行の下水道用設計標準歩掛表のこと。第1巻管路、第2巻ポンプ場処理場、第3巻設計委託に分かれています。背表紙が白色のことから通称「白本」と呼ばれています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-025-新技術情報共有システム(",
+    "term": "新技術情報共有システム（NETIS）",
+    "reading": "しんぎじゅつじょうほうきょうゆうしすてむ（ねてぃす）",
+    "definition": "国土交通省が運用しているデータベースのことで、公共工事に活用できる様々な新技術についての情報がインターネット上で公開されおり自由に閲覧できます。NETIS（New Technology Information System）は有用な新技術の普及・促進を目的としています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-026-新土木工事積算大系",
+    "term": "新土木工事積算大系",
+    "reading": "しんどぼくこうじせきさんたいけい",
+    "definition": "工事工種体系における体系階層（レベル）のうち、契約において取引項目となりうる特に重要なレベルに相当する「細別（レベル４）」について、含まれる費目項目の明確化を図ることを目的に、細別名称ごとに、総括表用単位・積算用単位、含まれる費目項目を示した用語の定義などが規定されています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-027-水道事業実務必携(書籍)",
+    "term": "水道事業実務必携（書籍）",
+    "reading": "すいどうじぎょうじつむひっけい",
+    "definition": "全国簡易水道協議会発行の書籍。水道工事ので使用する基準が掲載されています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-028-数量計算書",
+    "term": "数量計算書",
+    "reading": "すうりょうけいさんしょ",
+    "definition": "土工や建築関係の業務で利用される書類の一つで、簡単に言うと数量計算書は設計図面の一部です。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-029-数量算出(拾い出し)",
+    "term": "数量算出（拾い出し）",
+    "reading": "すうりょうさんしゅつ",
+    "definition": "国土交通省がまとめた要領や各協会発行のマニュアルを参考にして、図面や設計書などから工事に必要な材料・数量などを数える作業のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-030-スライド条項(建設工事標",
+    "term": "スライド条項（建設工事標準請負契約約款における請負代金額変更の規定）",
+    "reading": "すらいどじょうこう",
+    "definition": "建設工事標準請負契約約款（昭和25年）には物価の変動等による請負代金額の変更（いわゆるスライド条項）が規定されました。スライド条項に書かれている3つのスライドには、全体スライド、単品スライド、インフレスライドがあります。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-031-積算",
+    "term": "積算",
+    "reading": "せきさん",
+    "definition": "歩掛（材料費・労務費・機械経費など）に基づき構成する費用を積み上げ、全体の事業費を計算する方法またはその業務のこと。工事の積算であれば、対象施設について技術基準に基づき作成された設計図書や施工方法を、定めた契約内容に基づいて適正に費用を算出します。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-032-積算資料(書籍)",
+    "term": "積算資料（書籍）",
+    "reading": "せきさんしりょう",
+    "definition": "一般財団法人経済調査会発行。月刊。全国の調査網を駆使し、建設に関わる資材価格・労務単価・各種料金等を流通・取引数量・都市別に掲載されています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-033-積算実務マニュアル(書籍",
+    "term": "積算実務マニュアル（書籍）",
+    "reading": "せきさんじつむまにゅある",
+    "definition": "全日出版社の発行する書籍。建築工事、機械設備、電気設備の3種類あり、都道府県ごとの複合単価が掲載されています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-034-施工箇所点在型積算",
+    "term": "施工箇所点在型積算",
+    "reading": "せこうかしょてんざいがたせきさん",
+    "definition": "施工箇所が点在する工事については、建設機械を複数箇所に運搬する費用や複数箇所の交通規制等がそれぞれの箇所で発生するなど、積算額と実際にかかる費用に乖離があると考えられます。そのため施工箇所が１km以上離れている場合は、箇所ごとに間接工事費（共通仮設費、現場管理費）を算出します。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-035-施工計画書",
+    "term": "施工計画書",
+    "reading": "せこうけいかくしょ",
+    "definition": "工事の受注者が監督職員（発注者）に提出する書類のことで、工事を完成するために必要な施工方法や管理方法、安全対策に関する情報が記載されています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-036-施工パッケージ型積算方式",
+    "term": "施工パッケージ型積算方式",
+    "reading": "せこうぱっけーじがたせきさんほうしき",
+    "definition": "国土交通省が平成24年10月から実施している積算方式で、機械・労務・材料にかかる費用をひとまとめ（パッケージ化）にした施工単価により直接工事費の積算を行う方式のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-037-設計数量",
+    "term": "設計数量",
+    "reading": "せっけいすうりょう",
+    "definition": "設計図書に明記された個数や設計寸法から算出した数量のこと。設計図書をもとに設計数量を算出しますが、実際の工事では設計数量を割り増した所要数量が必要です。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-038-設計図書",
+    "term": "設計図書",
+    "reading": "せっけいとしょ",
+    "definition": "工事を実施するために必要な図書で、設計の内容を示す書類のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-039-設計変更",
+    "term": "設計変更",
+    "reading": "せっけいへんこう",
+    "definition": "設計変更を行う必要がある場合は、事前に書面による協議で発注者に承諾を得たうえで、施工方法や内容を変更すること。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-040-全日出版社",
+    "term": "全日出版社",
+    "reading": "ぜんにちしゅっぱんしゃ",
+    "definition": "営繕系の積算実務マニュアルを発行発売する民間企業で、正式名は株式会社全日出版社です。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-041-総価契約単価合意方式",
+    "term": "総価契約単価合意方式",
+    "reading": "そうかけいやくたんかごういほうしき",
+    "definition": "入札で落札金額を合計金額（総価）で決定しその後工種、経費項目を個別または請負比率で契約する方法のこと。国土交通省では全面的に採用されています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-042-(工事数量)総括表",
+    "term": "（工事数量）総括表",
+    "reading": "そうかつひょう",
+    "definition": "工事施工に関する工種、設計数量及び規格を示した書類のこと。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "sa-043-総合評価落札方式",
+    "term": "総合評価落札方式",
+    "reading": "そうごうひょうからくさつほうしき",
+    "definition": "入札価格だけでなく技術提案（工事の質や内容など）も評価対象にする入札方式のこと。総合評価落札方式では入札金額の一番低い事業者が落札者になるとは限らず、むしろ技術力の高い事業者ほど高く評価され、入札競争において有利となります。また、総合評価落札方式には「除算方式」と「加点方式」があり、一般的に使用されているのは除算方式で、加算方式は国土交通省の一部案件で試行的に採用されています。",
+    "category": "さ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/sa-gyo/"
+  },
+  {
+    "id": "ta-001-代価表",
+    "term": "代価表",
+    "reading": "だいかひょう",
+    "definition": "内訳書や明細書に計上される書類で、歩掛の計算や一連の工種をまとめた単価表のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-002-単価適用日",
+    "term": "単価適用日",
+    "reading": "たんかてきようび",
+    "definition": "単価の基準日のこと。都道府県で変更の時期等は異なるため注意が必要で、基準日を誤って積算すると間違いが発生します。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-003-ダンピング受注",
+    "term": "ダンピング受注",
+    "reading": "だんぴんぐじゅちゅう",
+    "definition": "市場価格よりも著しく低い価格で入札し、工事を受注（契約締結）をすること。ダンピング受注を防止するために平成26年に「公共工事の品質確保の促進に関する法律」が改正されました。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-004-(積算)地区単価",
+    "term": "（積算）地区単価",
+    "reading": "ちくたんか",
+    "definition": "積算する該当地区の単価のこと。三重県の積算を行うのであれば「三重県の単価」が積算地区単価になります。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-005-直接工事費",
+    "term": "直接工事費",
+    "reading": "ちょくせつこうじひ",
+    "definition": "工事に必要な建材や資材などの費用といった建設工事に直接必要な費用のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-006-低入札価格調査制度",
+    "term": "低入札価格調査制度",
+    "reading": "ていにゅうさつかかくちょうさせいど",
+    "definition": "公共工事などの入札において、官公庁など発注者が予算額の70～80％ほどで設定した金額（調査基準価格）より低い価格で入札した企業があった場合、その企業に対し、価格の根拠を聴取したうえで工事の履行が適正にされるかどうかを調査する制度のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-007-出来形(出来形部分)",
+    "term": "出来形（出来形部分）",
+    "reading": "できがた",
+    "definition": "工事の目的物のできあがった部分、工事施工が完了した部分のこと。土木構造物が完成していなくても、目的物を造るための掘削や基礎工が完了していれば、その部分のことを「出来形」と呼びます。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-008-出来高",
+    "term": "出来高",
+    "reading": "できだか",
+    "definition": "出来形に相応する請負代金（工事施工が完了した部分の金額）のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-009-電子入札システム",
+    "term": "電子入札システム",
+    "reading": "でんしにゅうさつしすてむ",
+    "definition": "入札情報の入手や入開札までの一連の手続きがオンライン上で行えるシステムのこと。発注機関によっては「電子調達システム」とも言います。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-010-冬期補正",
+    "term": "冬期補正",
+    "reading": "とうきほせい",
+    "definition": "経費計算をする際に現場管理費の補正がかかります。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-011-冬期労務費補正",
+    "term": "冬期労務費補正",
+    "reading": "とうきろうむひほせい",
+    "definition": "10月以降に施工する場合、労務費が工事期間により補正されます。国土交通省と農林水産省では補正される係数が異なります。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-012-特定建設業許可",
+    "term": "特定建設業許可",
+    "reading": "とくていけんせつぎょうきょか",
+    "definition": "建設工事の発注者から直接請負った1件の建設工事につき、その工事の全部または一部を、下請代金の額（その工事に係る下請契約が2以上あるときは下請代金の総額）が4,000万円（消費税含む。ただしその工事が建築一式工事の場合は6,000万円）以上となる下請契約を締結して施工しようとする者に義務付けられる許可のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-013-土工",
+    "term": "土工",
+    "reading": "どこう",
+    "definition": "土の切り取り・盛土・運搬など土砂を扱う土木工事のこと。または土木工事に従事する労働者のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-014-土地改良工事",
+    "term": "土地改良工事",
+    "reading": "とちかいりょうこうじ",
+    "definition": "農林水産省、各自治体の農林水産部、農地部が発注する工事のこと。積算基準は土地改良工事積算基準を主に使用します。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-015-特記仕様書",
+    "term": "特記仕様書",
+    "reading": "とっきしようしょ",
+    "definition": "標準仕様書に記載されている共通事項以外に、それぞれの工事や委託業務の特有事項を示した仕様書のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-016-都道府県知事許可(知事許",
+    "term": "都道府県知事許可（知事許可）",
+    "reading": "とどうふけんちじきょか",
+    "definition": "一つの都道府県の区域内のみに営業所を設けて営業しようとする場合は、都道府県知事の許可が必要です。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-017-土木工事数量算出要領",
+    "term": "土木工事数量算出要領",
+    "reading": "どぼくこうじすうりょうさんしゅつようりょう",
+    "definition": "土木工事に係る工事数量（設計数量や出来高数量）の計算を行う際に使用する要領のこと。さらに都道府県などの発注土木工事についてはこの算出要領をもとにして作成された基準類が活用されています。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-018-土木工事積算基準マニュア",
+    "term": "土木工事積算基準マニュアル （書籍）／白本",
+    "reading": "どぼくこうじせきさんきじゅんまにゅある",
+    "definition": "一般財団法人建設物価調査会発行。年1回。国土交通省土木工事標準積算基準書の解説書。「国土交通省土木工事標準積算基準書」に基づき、工種別に具体的な積算事例・解説が収録されています。背表紙が白色のことから通称「白本」と呼ばれています。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-019-土木工事標準単価",
+    "term": "土木工事標準単価",
+    "reading": "しょうきゃくひおよびしょうどぼくこうじひょうじゅんたんか",
+    "definition": "標準的な工法による施工単位当たりの工事費で、工事業者の施工実績に基づき、調査により得られた材料費、歩掛等によって算定した価格のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-020-土木コスト情報(書籍)",
+    "term": "土木コスト情報（書籍）",
+    "reading": "どぼくこすとじょうほう",
+    "definition": "一般財団法人建設物価調査会発行。発刊時期は【春】4月号、【夏】7月号、【秋】10月号、【冬】1月号の年4回。実態調査に基づく土木工事市場単価と下水道工事市場単価、地質調査市場単価、土木工事標準単価がまとめられています。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-021-土木施工単価(書籍)",
+    "term": "土木施工単価（書籍）",
+    "reading": "どぼくせこうたんか",
+    "definition": "一般財団法人経済調査会著、一般財団法人建設物価調査会発行。季刊。 3、6、9、12月の25日に発売。新しい施工技術情報や建設機械、仮設材の賃貸料が掲載されています。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-022-土量配分",
+    "term": "土量配分",
+    "reading": "どりょうはいぶん",
+    "definition": "土工工事において、道路や運河などを建設する過程で生じる土の切土（掘削土）量と盛土量との分配作業のこと。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "ta-023-土量変化率",
+    "term": "土量変化率",
+    "reading": "どりょうへんかりつ",
+    "definition": "土は、地山の土量（地山にあるがままの状態）、ほぐした土量（掘削されほぐされた状態）、締め固めた土量（締め固めた状態）の大きく3つの状態に分けられます。それぞれの状態の土量を1.0としたときの体積比で表すことを「土量変化率」と言います。",
+    "category": "た行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ta-gyo/"
+  },
+  {
+    "id": "na-001-入札",
+    "term": "入札",
+    "reading": "にゅうさつ",
+    "definition": "国や地方公共団体といった官公庁が民間企業と結ぶ際の契約方式の一つです。契約の種類には「一般競争契約」「指名競争契約」「随意契約」の３種類があります。",
+    "category": "な行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/na-gyo/"
+  },
+  {
+    "id": "na-002-入札公告",
+    "term": "入札公告",
+    "reading": "にゅうさつこうこく",
+    "definition": "入札日時や資格条件、仕様書の配布等についての情報で、各機関の掲示板のホームページ、官報、調達ポータルサイトに掲載されています。",
+    "category": "な行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/na-gyo/"
+  },
+  {
+    "id": "na-003-入札辞退届",
+    "term": "入札辞退届",
+    "reading": "にゅうさつじたいとどけ",
+    "definition": "入札辞退の際に必要となる書類のこと。従来は「紙の文書」で作成・提出するのが一般的でしたが、最近では電子入札システムを経由して、「電子文書」として提出されるケースが多いです。",
+    "category": "な行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/na-gyo/"
+  },
+  {
+    "id": "na-004-任意施工",
+    "term": "任意施工",
+    "reading": "にんいせこう",
+    "definition": "設計図書に工事目的物の施工に関する指定がなく、施工者が自由に材料、数量、工種、施工法、配置などを自由に選択できること。",
+    "category": "な行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/na-gyo/"
+  },
+  {
+    "id": "na-005-人工",
+    "term": "人工",
+    "reading": "にんく",
+    "definition": "歩掛によって算出された工数の単位は「人工（にんく）」と呼ばれ、1人工は1人の作業員が8時間でできる作業量のことです。人工の求め方：（1人×作業時間）÷8時間＝1人工",
+    "category": "な行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/na-gyo/"
+  },
+  {
+    "id": "ha-001-発注者",
+    "term": "発注者",
+    "reading": "はっちゅうしゃ",
+    "definition": "建設工事の最初の注文者（いわゆる「施主」）のこと。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-002-標準単価",
+    "term": "標準単価",
+    "reading": "ひょうじゅんたんか",
+    "definition": "市場単価積算方式から移行した標準単価方式の名称のこと。区画線工、構造物とりこわし工などがあります。施工パッケージ型積算方式の東京地区単価とは別物のため注意が必要です。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-003-日当り標準施工量",
+    "term": "日当り標準施工量",
+    "reading": "ひあたりひょうじゅんせこうりょう",
+    "definition": "作業ごとの1日当たりの作業量のこと。1日当たりの作業量に全体の数量をかけると、その作業に必要な日数もしくは月数が判明します。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-004-標準仕様書",
+    "term": "標準仕様書",
+    "reading": "ひょうじゅんしようしょ",
+    "definition": "国や地方自治体などが施工するために作成した仕様書のこと。施工するための基本事項が定められています。共通仕様書、または単に仕様書とも呼ばれています。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-005-標準使用年数",
+    "term": "標準使用年数",
+    "reading": "ひょうじゅんしようねんすう",
+    "definition": "一般的な維持管理のもと、建設機械本来の用途・用法により、通常予定される機械の効率が十分発揮できる使用年数のこと。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-006-V代価表",
+    "term": "V代価表",
+    "reading": "ぶいだいかひょう",
+    "definition": "組み合せ工種や見積歩掛を発注する際に、積算基準にない工種を発注するときに用いられる手法のこと。通称「ブイ代価表」と呼ばれています。自治体が発注する際に使用するシステムに依存します。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-007-歩掛",
+    "term": "歩掛",
+    "reading": "ぶがかり",
+    "definition": "ある作業を行う場合の単位数量または、ある一定の工事に要する作業手間並びに作業日数を数値化したもの。土木や建築といった建設工事などや測量や地質調査などの積算の際、歩掛に対応する職種の労務単価を乗じ、場合によってはそれに諸費を追加して価格を算出し、工事費用や業務費用の根拠としています。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-008-歩切",
+    "term": "歩切",
+    "reading": "ぶぎり",
+    "definition": "公共工事の予定価格を、積算に基づく設計書金額の端数を切り捨てて、減額して設定すること。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-009-復興係数・復興歩掛",
+    "term": "復興係数・復興歩掛",
+    "reading": "ふっこうけいすう・ふっこうぶがかり",
+    "definition": "国土交通省がH14年2月に導入した特例措置で、大規模災害における被災地の施工確保対策として岩手・宮城・福島県内、熊本県内、広島県内で導入されています。（例 復興係数：共通仮設費1.4倍、現場管理費1.1倍、復興歩掛：土工の日当たり標準作業量を２０％低下する補正の設定）",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-010-分任官工事",
+    "term": "分任官工事",
+    "reading": "ぶんにんかんこうじ",
+    "definition": "地方整備局発注の比較的小規模な工事で、整備局管轄の事務所が決裁権を持つ工事のこと。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-011-法定福利費",
+    "term": "法定福利費",
+    "reading": "ほうていふくりひ",
+    "definition": "現場作業員や現場管理者の労災保険料、雇用保険料、健康保険料及び厚生年金保険料の事業主負担額のこと。このほかにも現場作業員に関する労災保険料の事業主負担額や建設業退職金救済制度に基づく証紙購入代金も法定福利費に含まれています。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ha-012-本官工事",
+    "term": "本官工事",
+    "reading": "ほんかんこうじ",
+    "definition": "発注者指定型で公告する工事のこと。発注者指定型とは、試行にかかる必要な費用の全額を発注者が負担する方式です。",
+    "category": "は行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ha-gyo/"
+  },
+  {
+    "id": "ma-001-丸め",
+    "term": "丸め",
+    "reading": "まるめ",
+    "definition": "端数処理のこと。一般土木の自動積算時の数量丸めは、基本的に「小数第4位を四捨五入」となります。",
+    "category": "ま行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ma-gyo/"
+  },
+  {
+    "id": "ma-002-入無償貸付機械等評価額",
+    "term": "入無償貸付機械等評価額",
+    "reading": "むしょうかしつけきかいとうひょうかがく",
+    "definition": "無償貸付機械と同機種、同型式の機械等損料額から当該建設機械等の設計書に計上された経費（無償貸付機械等損料額）を控除した額のこと。",
+    "category": "ま行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ma-gyo/"
+  },
+  {
+    "id": "ma-003-緑本",
+    "term": "緑本",
+    "reading": "みどりぼん",
+    "definition": "一般社団法人日本建設機械施工協会（JCMA）著。年1回発行の建設機械等損料表のことを言います。背表紙が緑色のことから通称「緑本」と呼ばれています。",
+    "category": "ま行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ma-gyo/"
+  },
+  {
+    "id": "ya-001-夜間工事",
+    "term": "夜間工事",
+    "reading": "やかんこうじ",
+    "definition": "通常勤務すべき時間帯（８ｈ～17ｈ）を越えて、作業をする場合、労務単価の割増しを行います。",
+    "category": "や行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ya-gyo/"
+  },
+  {
+    "id": "ya-002-予定価格",
+    "term": "予定価格",
+    "reading": "よていかかく",
+    "definition": "入札や随時契約を行う国や自治体が業務を発注する際に必要と認めた基準価格のこと。予定価格は必ず決めるよう法律で義務付けられています。",
+    "category": "や行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ya-gyo/"
+  },
+  {
+    "id": "ra-001-落札",
+    "term": "落札",
+    "reading": "らくさつ",
+    "definition": "競争入札において、落札条件に合致する価格で入札した応札者を合致する価格で入札した応札者を「当該調達案件の契約権利者」として決定することを言います。",
+    "category": "ら行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ra-gyo/"
+  },
+  {
+    "id": "ra-002-RIBC2(営繕積算シス",
+    "term": "RIBC2（営繕積算システム）",
+    "reading": "りびっくつー",
+    "definition": "公共発注機関が発注する建築工事の積算を行うために必要な公共建築工事標準単価（複合・市場等）を算出し、その作成データを利用して内訳設計書を作成するためのシステムとして一般財団法人建築コスト管理システム研究所が開発しています。",
+    "category": "ら行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ra-gyo/"
+  },
+  {
+    "id": "ra-003-リーザ",
+    "term": "リーザ",
+    "reading": "りーざ",
+    "definition": "一般社団法人農業農村整備情報総合センター監修の土地改良工事を積算する発注者のシステムのこと。農政局をはじめ各自治体で運用されています。",
+    "category": "ら行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ra-gyo/"
+  },
+  {
+    "id": "ra-004-労務費",
+    "term": "労務費",
+    "reading": "ろうむひ",
+    "definition": "工事現場の従業員に支払う給与や手当のこと。人件費や法定福利費、福利厚生費も含まれます。",
+    "category": "ら行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/ra-gyo/"
+  },
+  {
+    "id": "wa-001-割掛け",
+    "term": "割掛け",
+    "reading": "わりがけ",
+    "definition": "競争入札において、落札条件NEXCO発注工事で間接工事費に積み上げられた費用を直接工事費に振り分けること。振り分け比率は直接工事費の数量に比例し、単位は無視します。",
+    "category": "わ行",
+    "sourceUrl": "https://www.beingcorp.co.jp/column/sekisan-gyoukai-yougo-shu/wa-gyo/"
+  }
+]
