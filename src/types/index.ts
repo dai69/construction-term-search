@@ -14,3 +14,9 @@ export interface SearchResult {
   matchType: 'exact' | 'partial';
   relevance: number;
 }
+
+export interface Category {
+  id: string;
+  name: string;
+  description: string;
+}
