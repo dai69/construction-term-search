@@ -83,8 +83,8 @@ export default function SearchForm({ onSearch, isLoading = false, terms }: Searc
                  value={query}
                  onChange={handleQueryChange}
                  onKeyPress={handleKeyPress}
-                 placeholder="積算・業界用語を検索してください（例：積算、単価、歩掛、内訳書...）"
-                 className="w-full pl-12 pr-16 py-4 text-lg text-gray-900 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-100 focus:border-blue-500 transition-all duration-200 shadow-sm hover:shadow-md placeholder-gray-500"
+                 placeholder="用語を入力（例：積算、単価）"
+                 className="w-full pl-10 pr-12 py-3 text-base sm:text-lg text-gray-900 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-100 focus:border-blue-500 transition-all duration-200 shadow-sm hover:shadow-md placeholder-gray-500"
                  disabled={isLoading}
                />
 
